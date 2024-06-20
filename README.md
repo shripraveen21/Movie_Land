@@ -1,4 +1,3 @@
-Sure, here's a structured README.md text for your Movie_land project, formatted as plain text:
 
 ---
 
