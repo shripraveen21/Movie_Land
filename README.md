@@ -27,7 +27,7 @@ This React project utilizes the following technologies:
 - **Create React App**: A comfortable environment for learning React, and the best way to start building a new single-page application in React.
 - **Bootstrap**: Used for styling and ensuring responsive design.
 - **React Testing Library**: For testing React components.
-- **Webpack, Babel, ESLint**: Included as part of Create React App for bundling, transpiling, and linting.
+
 
 ## Installation and Running Instructions
 
@@ -70,18 +70,8 @@ No backend setup is required as Movie_land solely relies on client-side operatio
 
 2. Open your browser and visit `http://localhost:3000` to view Movie_land.
 
-### Sending OTP through Email
-
-Movie_land does not include email functionalities or OTP (One Time Password) sending features. It focuses solely on movie search and display functionalities.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README.md provides a detailed guide for installing, running, and contributing to the Movie_land project, aimed at developers and contributors looking to understand and engage with the application. Adjust the URLs and commands based on your actual project setup and structure.
